@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (generated output)
+results/*
+!results/.gitkeep
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
